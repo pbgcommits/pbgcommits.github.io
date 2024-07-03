@@ -1,6 +1,7 @@
 import { stationNames_v1, stationNames_v2} from "./stations";
 import shuffle from "fisher-yates";
 
+// @ts-ignore
 import pseudoRandom from "pseudo-random";
 
 
