@@ -1,4 +1,4 @@
-# pbgcommits.github.io
-Patrick's website!
+# PBGCOMMITS
+Patrick's website!  
 
-<a href="./trainle-solver">Train station distance calculator</a>
+<a href="./trainle-solver/index.html">Train station distance calculator</a>
