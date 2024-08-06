@@ -3,4 +3,4 @@
 
 <a href="trainle-calc">Get trainle hints and solutions!</a>
 
-<a href="trainle-unlimited">Play Trainle forever!!</a>
+<!-- <a href="trainle-unlimited">Play Trainle forever!!</a> -->
